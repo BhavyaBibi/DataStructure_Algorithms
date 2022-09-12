@@ -1,0 +1,16 @@
+Algorithm 2: Find the largest number among three numbers
+
+step1:Start
+step 2: Declare the  variables a,b,c
+step 3 : read the variables a, b and c
+step 4: If a>b:
+            if a>c:
+                Display a is the largest number.
+            Else:
+                Display c is the largest number.
+        Else:
+            if b >c:
+                Display b is the largest number.
+            Else:
+                Display C is the largest number
+step 5: Stop
