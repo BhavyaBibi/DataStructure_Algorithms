@@ -1,0 +1,18 @@
+Print this program algorithm and python code in this section
+
+*
+* *
+* * *
+* * * *
+* *  * *
+
+step1 : Start
+
+step 2: enter the input values
+
+step 3: write the condition of outer loop
+
+step 4: write the condiion of inner loop
+
+step 5: print this program in the result
+
