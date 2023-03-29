@@ -1,0 +1,15 @@
+step1: Start
+step2: Read number num
+step3: [initialize]
+       r=1
+step4: Repeat step 4 through 10 until num>=r
+step5: [initialize]
+       c=1 
+step6: Repeat step 6 through 8 until c<=r
+step7: print */#
+step8: c=c+1
+       [end of loop step6]
+step9: go to next line
+step10: r=r+1
+        [end of loop step4]
+step11: stop
